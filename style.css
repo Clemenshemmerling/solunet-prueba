@@ -1,0 +1,160 @@
+body{
+	font-size: 25px;
+	font-family: 'Lato', 'Roboto', 'Open Sans';
+	text-align: center;
+	color: #F4F4F4;
+}
+.head-top{
+	text-align: center;
+	background-color: #1E1E1E;
+	color: #F4F4F4;
+	padding: 10px 0;
+	border-bottom: solid #063971 10px;
+}
+.head-h1{
+	font-size: 11em;
+	margin: 0;
+	padding: 0;	
+	border-bottom: solid #015D52 10px;
+}
+
+.head-logo{
+	font-size: 20em;
+	margin: 0;
+	padding: 0;
+	color: #EC7C26;
+}
+
+.section-quien{
+	background-color: #848484;
+	margin: 20px 6px;
+	padding: 150px 0 0 0;
+	border-top: solid #00BFFF 10px ;
+}
+
+.quien-social{
+	margin: 20px;
+	font-size: 10em;
+	color: #F2F2F2;	
+}
+
+.quien-content{
+	border-bottom: solid #B40404 10px;
+	margin-bottom: 20px; 
+}
+
+.quien-title{
+	margin: 0;
+	padding: 0;
+	font-size: 10em;
+	color: #F4F4F4;
+	border-bottom: solid #380B61 10px;
+}
+.quien-p{
+	font-size: 2em;
+	text-align: justify;
+	padding: 30px;
+	color: #F2F2F2;
+
+}
+.section-servi{
+	background-color: #293952;
+	border-top: solid #D8D8D8 10px;
+	border-bottom: solid #0B3B2E 10px;
+	margin: 20px 6px;
+}
+.servi-logo{
+	font-size: 18em;
+	margin: 0;
+	padding: 0;
+	color: #FF0000;
+}
+
+.servi-title{
+	font-size: 9em;
+	margin: 0;
+	padding: 0;
+	border-bottom: solid #BE81F7 10px;
+}
+
+.content-title{
+	font-size: 3em;
+	margin: 30px 0;
+	padding: 30px 0;
+}
+
+.servi-ul{
+	margin: 0 150px;
+	padding: 0 0 60px 0;
+	text-align: left;
+	font-size: 2em;
+}
+
+li{
+	margin-bottom: 10px;
+	padding-bottom: 10px;
+}
+
+.footer{
+	background-color: #1C1C1C;
+	border-top: solid #38869a 10px;
+
+}
+
+.footer-social{
+	margin: 60px 20px 0 20px;
+	padding: 80px 0 0 0;
+	font-size: 3em;
+	color: #F2F2F2;
+}
+
+.footer-title{
+	font-size: 2em;
+	margin: 0;
+	padding: 0;
+	border-bottom: solid #FF0000 10px;
+}
+
+.footent-content-title{
+	font-size: 4em;
+	margin: 0;
+	padding: 30px 0 0 0;
+}
+
+.footer-ul{
+	list-style: none;
+	font-size: 2.5em;
+}
+
+.footer-li a{
+	text-decoration: none;
+	color: #2ECCFA;
+}
+
+.footer-form{
+	display: flex;
+	flex-direction: column;
+	margin: 40px;
+
+}
+
+.footer-forminput{
+	font-size: 3em;
+	margin: 15px;
+	border-radius: 50px;
+}	
+
+.footer-textarea{
+	font-size: 3em;
+	margin: 15px;
+	border-radius: 50px;
+}
+
+.footer-button{
+	border-radius: 50px;
+	background-color: #0B2161;
+	margin: 15px;
+	padding: 15px;
+	font-size: 3em;
+	color: #FFFF00;
+}
