@@ -1,4 +1,4 @@
-	<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
 	<title>Solunet</title>
@@ -68,8 +68,8 @@
 			</ul>
 			<h4 class="footent-content-title">Correo</h4>
 			<ul class="footer-ul">
-				<li class='footer-li'><a href="mailto:clemenshemmerling@gmail.com">clemenshemmerling@gmail.com</a></li>
-				<li class='footer-li'><a href="mailto:thebeatisonmyblood@gmail.com">thebeatisonmyblood@gmail.com</a></li>
+				<li class='footer-li'><a href="">clemenshemmerling@gmail.com</a></li>
+				<li class='footer-li'><a href="">thebeatisonmyblood@gmail.com</a></li>
 			</ul>
 		</div>
 		<form class="footer-form">
