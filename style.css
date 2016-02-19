@@ -4,6 +4,7 @@ body{
 	text-align: center;
 	color: #F4F4F4;
 }
+
 .head-top{
 	text-align: center;
 	background-color: #1E1E1E;
@@ -11,6 +12,7 @@ body{
 	padding: 10px 0;
 	border-bottom: solid #063971 10px;
 }
+
 .head-h1{
 	font-size: 11em;
 	margin: 0;
@@ -50,6 +52,7 @@ body{
 	color: #F4F4F4;
 	border-bottom: solid #380B61 10px;
 }
+
 .quien-p{
 	font-size: 2em;
 	text-align: justify;
@@ -57,12 +60,14 @@ body{
 	color: #F2F2F2;
 
 }
+
 .section-servi{
 	background-color: #293952;
 	border-top: solid #D8D8D8 10px;
 	border-bottom: solid #0B3B2E 10px;
 	margin: 20px 6px;
 }
+
 .servi-logo{
 	font-size: 18em;
 	margin: 0;
@@ -135,7 +140,6 @@ li{
 	display: flex;
 	flex-direction: column;
 	margin: 40px;
-
 }
 
 .footer-forminput{
